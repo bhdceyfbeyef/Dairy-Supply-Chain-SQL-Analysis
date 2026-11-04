@@ -96,8 +96,10 @@ All data used in this project is synthetic and created for educational and analy
 5. Execute the data loading script.
 6. Run the analytical SQL scripts to explore the results.
 
-Author
-Eng.moaz wael ezzat
+## Author
+
+**Eng. Moaz Wael Ezzat**
+
 Data Analyst | SQL Server | Data Analysis | T-SQL
 ---
 This project was developed as a SQL Supply Chain Analytics Capstone Project.
