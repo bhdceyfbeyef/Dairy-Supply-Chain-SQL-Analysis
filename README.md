@@ -69,7 +69,22 @@ This project explores five major areas of supply chain performance:
 3. **Raw Milk Supplier Quality:** Evaluating inspection results and supplier failure rates.
 4. **Monthly Production Trends:** Identifying monthly production patterns and peak production periods.
 5. **Material Balance Analysis:** Comparing material quantities received against quantities used in production.
+## Business Insights Visualizations
 
+### 1. Supplier Procurement Performance
+![Supplier Procurement Performance](01_Supplier_Procurement_Performance.png)
+
+### 2. Production Performance
+![Production Performance](02_Production_Performance.png)
+
+### 3. Raw Milk Supplier Quality
+![Raw Milk Supplier Quality](03_Raw_Milk_Supplier_Quality.png)
+
+### 4. Monthly Production Trends
+![Monthly Production Trends](04_Monthly_Production_Trends.png)
+
+### 5. Material Balance Analysis
+![Material Balance Analysis](05_Material_Balance_Analysis.png)
 ## Data Disclaimer
 All data used in this project is synthetic and created for educational and analytical purposes. It does not represent actual company records.
 
