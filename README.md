@@ -1,7 +1,8 @@
 Dairy Supply Chain SQL Analysis
 
-Project Overview
-NileCult Dairy Factory – Supply Chain SQL Capstone**
+## Project Overview
+
+**NileCult Dairy Factory – Supply Chain SQL Capstone**
 
 This project focuses on analyzing the supply chain operations of a fictional Egyptian dairy manufacturing company using Microsoft SQL Server.
 
